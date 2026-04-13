@@ -161,6 +161,9 @@ argoSchema = {
         },
         "vertical_sampling_scheme": {
             "bsonType": "string"
+        },
+        "bgc_mismatches":{
+	    "bsonType": "object"
         }
     }
 }
